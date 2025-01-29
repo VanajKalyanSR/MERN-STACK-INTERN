@@ -1,0 +1,27 @@
+json will look like js object
+
+compass helps out to use the mongo db server which means we fetch data from mongodb server (its like client)
+
+MONGOOSE:
+mongoose shell is replaced with mongoosh
+
+data modeling:
+
+
+schema:
+actual blueprint of the db which you created by is used by datamodeling 
+
+
+
+name,model,colour,status,price
+
+vname ,v price
+
+
+listout particular model laptops
+change its status 
+
+
+
+curl -X GET 'https://finnhub.io/api/v1/stock/candle?symbol=AAPL&resolution=D&from=1636924800&to=1637011200&token=cu9pqkhr01qjnf5hcpd0cu9pqkhr01qjnf5hcpdg'
+

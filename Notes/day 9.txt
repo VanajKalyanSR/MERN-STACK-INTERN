@@ -1,0 +1,2 @@
+state is a callback function user info is from store user is from slice
+

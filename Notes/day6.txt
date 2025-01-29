@@ -1,0 +1,31 @@
+USE EFFECT HOOK:
+
+	upon the action in all functional components monitoring the impact or side effects can be done using use effect  hook 
+
+
+lets say we have 5 components:
+as c1...c5
+
+to overcome this in terms of efficiency we are using hooks
+
+this is not efficient, to make it efficient we have an exclusive hook called useContext()
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+creating 4 components:
+1 - app
+2 - container
+3 - users
+4 - user
+
+
+without following hierarchy passing state from one component from one component using the hook:
+	important hings:
+		1)create context
+		2)use context
+
+in the given example create context will be in the app component and used in user component
+
+
+after our action monitoring or happening in the file os possible using use effect hook
