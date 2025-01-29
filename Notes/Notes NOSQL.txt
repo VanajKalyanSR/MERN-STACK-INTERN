@@ -1,0 +1,28 @@
+we use NoSQL to process unstructured JSON File 
+
+JSON File will look like JavaScript object
+
+JSON-JavaScript Object Notation
+
+
+
+COMPASS:
+
+compass helps to fetch data from the Mongo DB
+
+MONGOSH:
+
+Mongo Shell was replaced by Mongosh 
+
+
+SCHEMA:
+
+it is the actual blueprint of the DB which you created by fixing the format using data modeling 
+
+EX:
+
+Employee Tables:
+
+Employee_Name Sting
+Employee_No Int
+Salary Int
